@@ -1,0 +1,9 @@
+  File "C:\Users\User\anaconda3\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "C:\Users\User\anaconda3\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\User\PycharmProjects\WhatsappChatsClassifier\components\tabWriter.py", line 25, in process
+    with open(f"../temp/{index}", "w", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '../temp/6'
+
