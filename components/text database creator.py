@@ -226,12 +226,12 @@ p {margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-blo
 <p align="center"><span style="font-size:12pt; font-weight:600;">Practical Project</span><span style=" font-size:12pt;">.</span></p>
 <hr />
 <p align="center" style="-qt-paragraph-type:empty;"><br /></p>
-<p><span style=" font-size:12pt;">  Name:                               </span><span style=" font-size:11pt;">Kudakwashe Ndokanga</span></p>
-<p><span style=" font-size:12pt;">  Degree:       </span><span style=" font-size:11pt;">Business Studies and Computing Science</span></p>
-<p><span style=" font-size:12pt;">  Contact number:                      </span><span style=" font-size:11pt;">+263 787 814 090</span></p>
-<p><span style=" font-size:12pt;">  Email:                        </span><span style="font-size:11pt; text-decoration: underline; color:#0000ff;">ndokaskuda1999@gmail.com</span></p>
-<p><span style=" font-size:12pt;">  LinkedIn:            </span><span style=" font-size:11pt; text-decoration: underline; color:#0000ff;">kudakwashe-ndokanga-96b116205</span></p>
-<p><span style=" font-size:12pt;">  Github handle:                                     </span><span style=" font-size:11pt; text-decoration: underline; color:#0000ff;">ndokas99</span></p>
+<p><span style=" font-size:12pt;">  Name: </span><span style=" font-size:11pt;">Kudakwashe Ndokanga</span></p>
+<p><span style=" font-size:12pt;">  Degree: </span><span style=" font-size:11pt;">Business Studies and Computing Science</span></p>
+<p><span style=" font-size:12pt;">  Contact number: </span><span style=" font-size:11pt;">+263 787 814 090</span></p>
+<p><span style=" font-size:12pt;">  Email: </span><span style="font-size:11pt; text-decoration: underline; color:#0000ff;">ndokaskuda1999@gmail.com</span></p>
+<p><span style=" font-size:12pt;">  LinkedIn: </span><span style=" font-size:11pt; text-decoration: underline; color:#0000ff;">kudakwashe-ndokanga-96b116205</span></p>
+<p><span style=" font-size:12pt;">  Github handle: </span><span style=" font-size:11pt; text-decoration: underline; color:#0000ff;">ndokas99</span></p>
 </body>
 </html>"""
 

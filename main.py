@@ -408,7 +408,7 @@ class MainWindow(object):
         self.menuAbout.setTitle(_translate("mainWindow", "About"))
         self.menuView.setTitle(_translate("mainWindow", "View"))
 
-        self.actionAbout_WhatappFilter.setText(_translate("mainWindow", "About WhatappFilter"))
+        self.actionAbout_WhatappFilter.setText(_translate("mainWindow", "About WhatsappFilter"))
         self.actionAbout_WhatappFilter.setStatusTip(_translate("mainWindow", "View information about application"))
         self.actionAbout_WhatappFilter.triggered.connect(self.about1.show)
 
